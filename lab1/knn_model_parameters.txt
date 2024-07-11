@@ -1,0 +1,4 @@
+KNN Classifier Model Parameters:
+Number of neighbors: 3
+Weights: uniform
+Metric: minkowski

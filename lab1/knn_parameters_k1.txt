@@ -1,0 +1,6 @@
+KNN Classifier with k=1
+Model Parameters:
+Accuracy: 0.9037037037037037
+Number of neighbors: 1
+Model details: KNeighborsClassifier(n_neighbors=1)
+

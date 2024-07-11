@@ -1,0 +1,6 @@
+KNN Classifier with k=3
+Model Parameters:
+Accuracy: 0.9407407407407408
+Number of neighbors: 3
+Model details: KNeighborsClassifier(n_neighbors=3)
+
